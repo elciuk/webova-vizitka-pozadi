@@ -2,7 +2,7 @@ body{
     background: linear-gradient(135deg, #202020 12%, transparent 0, transparent 88%, #202020 0),
     linear-gradient(45deg, transparent 37%, #323232 0, #323232 63%, transparent 0),
     linear-gradient(135deg, transparent 37%, #202020 0, #202020 63%, transparent 0) #2a2a2a;
-    background-size: 6px 6px;
+    background-size: 7px 7px;
 
 
 }
